@@ -1,5 +1,5 @@
 function convertToRoman(num) {
-  var map = [
+  const map = [
     { d:1, r:'I' },
     { d:4, r:'IV' },
     { d:5, r:'V' },
